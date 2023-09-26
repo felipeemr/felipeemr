@@ -5,7 +5,6 @@ Sou um profissional com mais de 2 anos de experiência como desenvolvedor iOS e 
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipe-moraes-rocha-12b210170/)
 
-![Moraes GitHub stats](https://github-readme-stats.vercel.app/api?username=felipeemr&show_icons=true&theme=dracula)
 
 [![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=felipeemr&layout=pie)](https://github.com/felipeemr/github-readme-stats)
 
