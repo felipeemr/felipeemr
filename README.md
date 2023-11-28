@@ -1,6 +1,6 @@
 ### Olá! Meu nome é Felipe Moraes 👋
 
-Sou um profissional com mais de 2 anos de experiência como desenvolvedor iOS e Scrum Master. Possuo formação técnica em Análise e Desenvolvimento de Sistemas e estou atualmente cursando Ciência da Computação. Minha paixão pela tecnologia me motiva a liderar equipes na busca da excelência no desenvolvimento iOS, enquanto promovo a cultura ágil. Estou sempre em busca de desafios e oportunidades para crescer e inovar na área de tecnologia.
+Sou um profissional com mais de 3 anos de experiência como desenvolvedor iOS e Scrum Master. Possuo formação técnica em Análise e Desenvolvimento de Sistemas e estou atualmente cursando Ciência da Computação. Minha paixão pela tecnologia me motiva a liderar equipes na busca da excelência no desenvolvimento iOS, enquanto promovo a cultura ágil. Estou sempre em busca de desafios e oportunidades para crescer e inovar na área de tecnologia.
 </br>
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipe-moraes-rocha-12b210170/)
